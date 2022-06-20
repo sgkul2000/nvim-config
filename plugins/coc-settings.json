@@ -1,0 +1,23 @@
+{
+  "suggest.noselect": false,
+  "tsserver.enable": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "graphql",
+    "css",
+    "html",
+    "vue",
+    "pug"
+  ],
+  "eslint.run": "onSave",
+  "eslint.autoFixOnSave": true,
+  "eslint.probe": ["javascript", "typescript", "vue"],
+  "snippets.extends": {
+    "vue": ["javascript", "typescript"]
+  }
+}
