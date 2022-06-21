@@ -68,8 +68,8 @@ let g:Lf_PopupColorscheme = 'gruvbox_material'
 " let g:Lf_CommandMap = {'<C-J>': ['<C-N>'], '<C-K>': ['<C-P>']}
 
 """"""""""""""""""""""""""""open-browser.vim settings"""""""""""""""""""
-let g:netrw_nogx = 1
+ let g:netrw_nogx = 1
 
-" Use another mapping for the open URL method
-nmap gx <Plug>(openbrowser-smart-search)
-xmap gx <Plug>(openbrowser-smart-search)
+ " Use another mapping for the open URL method
+ nmap gx <Plug>(openbrowser-smart-search)
+ xmap gx <Plug>(openbrowser-smart-search)

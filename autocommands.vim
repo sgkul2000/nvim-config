@@ -1,3 +1,8 @@
+" Define or override some highlight groups
+augroup custom_highlight
+  autocmd!
+  autocmd ColorScheme * call s:custom_highlight()
+augroup END
 
 function! s:custom_highlight() abort
   " For yank highlight
