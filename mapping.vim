@@ -1,5 +1,5 @@
 " ctrl+/ comments
-map <C-_> :Commentary<CR>
+map <C-/> :Commentary<CR>
 
 
 " Turn the word under cursor to upper case

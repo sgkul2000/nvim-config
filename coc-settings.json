@@ -1,6 +1,5 @@
 {
   "suggest.noselect": false,
-  "tsserver.enable": false,
   "coc.preferences.formatOnSaveFiletypes": [
     "javascript",
     "typescript",
@@ -16,8 +15,15 @@
   ],
   "eslint.run": "onSave",
   "eslint.autoFixOnSave": true,
-  "eslint.probe": ["javascript", "typescript", "vue"],
+  "eslint.probe": [
+    "javascript",
+    "typescript",
+    "vue"
+  ],
   "snippets.extends": {
-    "vue": ["javascript", "typescript"]
+    "vue": [
+      "javascript",
+      "typescript"
+    ]
   }
 }

@@ -24,5 +24,6 @@ set tabstop=2
 set shiftwidth=2
 " always uses spaces instead of tab characters
 set expandtab
+set mouse=a
 
 colorscheme monokai
