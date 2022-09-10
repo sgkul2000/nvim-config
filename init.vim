@@ -26,4 +26,5 @@ set shiftwidth=2
 set expandtab
 set mouse=a
 
-colorscheme monokai
+" colorscheme monoki
+colorscheme github_dark_default

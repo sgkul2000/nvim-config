@@ -85,6 +85,7 @@ Plug 'wakatime/vim-wakatime'
 
 " Theme
 Plug 'sickill/vim-monokai'
+Plug 'projekt0n/github-nvim-theme'
 
 " Syntax highlighting for pug
 Plug 'digitaltoad/vim-pug'
@@ -103,7 +104,7 @@ Plug 'posva/vim-vue'
 " Plug 'HerringtonDarkholme/yats.vim'
 
 " golang setup
-Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+" Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 
 Plug 'othree/html5.vim'
 
