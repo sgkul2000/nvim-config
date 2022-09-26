@@ -6,6 +6,8 @@ let g:coc_global_extensions = [
   \ 'coc-pairs',
   \ 'coc-eslint', 
   \ 'coc-json', 
+  \ 'coc-rome', 
+  \ 'coc-html', 
   \ ]
 " from readme
 " if hidden is not set, TextEdit might fail.

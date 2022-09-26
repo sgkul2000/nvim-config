@@ -101,10 +101,10 @@ Plug 'digitaltoad/vim-pug'
 Plug 'posva/vim-vue'
 
 " react plugin
-" Plug 'HerringtonDarkholme/yats.vim'
+Plug 'HerringtonDarkholme/yats.vim'
 
 " golang setup
-" Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 
 Plug 'othree/html5.vim'
 

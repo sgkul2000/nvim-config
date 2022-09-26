@@ -25,5 +25,6 @@
       "javascript",
       "typescript"
     ]
-  }
+  },
+  "volar.formatting.enable": false
 }
